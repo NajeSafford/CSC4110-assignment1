@@ -1,5 +1,8 @@
 // Simple C++ program to display "Hello World" 
+// Author: Naje Safford <Naje.safford@gmail.com>
+
 // Header file for input output functions 
+
 #include<iostream>  
   
 using namespace std; 
